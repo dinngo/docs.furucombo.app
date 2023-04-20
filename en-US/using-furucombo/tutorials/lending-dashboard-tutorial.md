@@ -1,6 +1,6 @@
 # Lending Dashboard Tutorial
 
-<figure><img src="https://lh6.googleusercontent.com/Fll_C_mRXwUYwKqkbHB9vqNG5F9ZlpLB3-fJmP0frAUzlrcw_LVQi7y9OcXGg6OKM3N15dYqV2AKu7Pr0qb2MTpbgydLOEtNjj2Zw8ML2Vrx35IuY2pipv4JXAu_FL44LqeM8caEap3IqjYot-31Wfw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Tutorial Lending Dashboard.png" alt=""><figcaption></figcaption></figure>
 
 The [Lending Dashboard](http://furucombo.app/lending) is a new feature for [Furucombo](https://furucombo.app/) that allows you to easily manage your positions on lending protocols such as Aave and Compound with the click of a button instead of manually adding each cube.
 
