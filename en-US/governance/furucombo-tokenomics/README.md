@@ -1,6 +1,6 @@
 # Furucombo Tokenomics
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)
 
 > One thing that we would all agree on about the DeFi space is: _there are too many things going on and too little time to DYOR!_&#x20;
 

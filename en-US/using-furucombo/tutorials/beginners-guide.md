@@ -4,7 +4,7 @@ description: A step-by-step guide on how to build a combo on Furucombo!
 
 # Beginner’s Guide
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../../.gitbook/assets/image (3) (1).png>)
 
 Welcome to Furucombo. In this guide, we’ll walk through all the basics you need to know to successfully create a combo. Before we begin, let’s talk about “what is Furucombo?”.
 

@@ -189,7 +189,7 @@ Visit [Explore Page](https://furucombo.app/explore) to get some inspirations.&#x
 
 When you set up a combo, click the chain icon underneath the send button. Thank you'll get a link to the current combo.
 
-![](<../../.gitbook/assets/image (2).png>)
+![](<../../.gitbook/assets/image (2) (1).png>)
 
 ### How do I share my combo?
 
