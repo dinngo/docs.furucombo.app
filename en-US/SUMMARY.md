@@ -45,8 +45,6 @@
   * [Furucombo Fund](using-furucombo/tutorials/furucombo-fund.md)
   * [Fund Manager Setup](using-furucombo/tutorials/fund-manager-setup.md)
   * [Token Bridge Tutorial](using-furucombo/tutorials/token-bridge-tutorial.md)
-  * [Furucombo on Polygon](using-furucombo/tutorials/furucombo-on-polygon.md)
-  * [Furucombo on Avalanche](using-furucombo/tutorials/furucombo-on-avalanche.md)
   * [Token Multi-Sender Tutorial](using-furucombo/tutorials/token-multi-sender-tutorial.md)
   * [Leveraged Long Position Tutorial](using-furucombo/tutorials/leveraged-long-position-tutorial.md)
   * [Leveraged Short Position Tutorial](using-furucombo/tutorials/leveraged-short-position-tutorial.md)
