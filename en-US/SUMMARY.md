@@ -55,11 +55,6 @@
   * [What Is Slippage](using-furucombo/defi-learn/what-is-slippage.md)
   * [What Is Liquidation](using-furucombo/defi-learn/what-is-liquidation.md)
   * [Eight Tips on How to Survive in a Bear Market](using-furucombo/defi-learn/eight-tips-on-how-to-survive-in-a-bear-market.md)
-* [Blockchain Bridges](using-furucombo/blockchain-bridges/README.md)
-  * [Polygon Bridge](https://wallet.polygon.technology/bridge/)
-  * [Optimism Bridge](https://app.optimism.io/bridge/deposit)
-  * [Arbitrum Bridge](https://bridge.arbitrum.io/?l2ChainId=42161)
-  * [Avalanche Bridge](https://core.app/bridge)
 
 ## Security
 
