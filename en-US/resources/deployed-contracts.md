@@ -8,8 +8,6 @@
 
 ### Handlers:
 
-#### Proxy contract (The latest version)
-
 * Registry: [0x4aC58C108f5d932455bE6C4C35a9b8eEd4572F2a](https://ftmscan.com/address/0x4aC58C108f5d932455bE6C4C35a9b8eEd4572F2a)
 * FeeRuleRegistry: [0x40132E775E14EF3a946FA5624468715456FA0bE4](https://ftmscan.com/address/0x40132E775E14EF3a946FA5624468715456FA0bE4)
 * HFunds: [0xb67F86850d3Ee15F3E844d5E987da5712Cb589D3](https://ftmscan.com/address/0xb67F86850d3Ee15F3E844d5E987da5712Cb589D3)
@@ -19,64 +17,60 @@
 * HCurve: [0x0744Ac5578EBDF6a406AD0926Bd31f3f83055679](https://ftmscan.com/address/0x0744Ac5578EBDF6a406AD0926Bd31f3f83055679)
 * HSpookySwap: [0xB88b798F2d68Ee2b5299750B1F0e749D2263ADfa](https://ftmscan.com/address/0xB88b798F2d68Ee2b5299750B1F0e749D2263ADfa)
 * HGeist: [0xb678B2ae7dF978Ee4Aba4f9ce0564c0c1b0E9FC8](https://ftmscan.com/address/0xb678B2ae7dF978Ee4Aba4f9ce0564c0c1b0E9FC8)
-* HStargate: [0x83792AA9D3A67d7AADB8a47Ddf852c634168aCa7](https://ftmscan.com/address/0x83792AA9D3A67d7AADB8a47Ddf852c634168aCa7)
+* HStargate: [0xa2fB8ADbd70efdb381B4A8f21449B045E449eFA1](https://ftmscan.com/address/0xa2fB8ADbd70efdb381B4A8f21449B045E449eFA1)
 
 ## Avalanche Network
 
 ### Proxy Contract:
 
-v2.2.0 (The latest version) [0x54d344064245d12488e9f1205d444cB69be636b5](https://snowtrace.io/address/0x54d344064245d12488e9f1205d444cB69be636b5)
+[0x54d344064245d12488e9f1205d444cB69be636b5](https://snowtrace.io/address/0x54d344064245d12488e9f1205d444cB69be636b5)
 
 ### Handlers:
 
-#### For v2.2.0 proxy contract (The latest version)
-
 * HAaveProtocolV3 [0xb67F86850d3Ee15F3E844d5E987da5712Cb589D3](https://snowtrace.io/address/0xb67f86850d3ee15f3e844d5e987da5712cb589d3)
-* HFunds [0x3dc25F78b4Eaed2F3ac2C26b0f4Ae1DEBb08F6e5](https://snowtrace.io/address/0x3dc25F78b4Eaed2F3ac2C26b0f4Ae1DEBb08F6e5)
+* HFunds [0x7F974c1E969c8201c08273b958dA646fe5d536AA](https://snowtrace.io/address/0x7F974c1E969c8201c08273b958dA646fe5d536AA)
 * HParaSwapV5 [0x6fa56D3C0ECC0A244D8E06C005816f9c9904576A](https://snowtrace.io/address/0x6fa56d3c0ecc0a244d8e06c005816f9c9904576a)
 * HWrappedNativeToken [0x83792AA9D3A67d7AADB8a47Ddf852c634168aCa7](https://snowtrace.io/address/0x83792aa9d3a67d7aadb8a47ddf852c634168aca7)
+* HFunds: [0x7F974c1E969c8201c08273b958dA646fe5d536AA](https://snowtrace.io/address/0x7F974c1E969c8201c08273b958dA646fe5d536AA)
+* HStargate [0xb597CF85016d0234CDa08dF5d5875A5fF421C4fa](https://snowtrace.io/address/0xb597CF85016d0234CDa08dF5d5875A5fF421C4fa)
 
 ## Optimism Network
 
 ### Proxy Contract:
 
-v2.2.0 (The latest version) [0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9](https://optimistic.etherscan.io/address/0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9)
+[0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9](https://optimistic.etherscan.io/address/0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9)
 
 ### Handlers:
 
-#### For v2.2.0 proxy contract (The latest version)
-
 * HAaveProtocolV3 [0x26799674baF5588580867A104D3Ba22A5b54786F](https://optimistic.etherscan.io/address/0x26799674baF5588580867A104D3Ba22A5b54786F)
-* HFunds [0xb67F86850d3Ee15F3E844d5E987da5712Cb589D3](https://optimistic.etherscan.io/address/0xb67f86850d3ee15f3e844d5e987da5712cb589d3)
+* HFunds [0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9](https://optimistic.etherscan.io/address/0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9)
 * HParaSwapV5 [0xB88b798F2d68Ee2b5299750B1F0e749D2263ADfa](https://optimistic.etherscan.io/address/0xb88b798f2d68ee2b5299750b1f0e749d2263adfa)
 * HUniswapV3 [0x3dc25F78b4Eaed2F3ac2C26b0f4Ae1DEBb08F6e5](https://optimistic.etherscan.io/address/0x3dc25f78b4eaed2f3ac2c26b0f4ae1debb08f6e5)
 * HWrappedNativeToken [0xb678B2ae7dF978Ee4Aba4f9ce0564c0c1b0E9FC8](https://optimistic.etherscan.io/address/0xb678b2ae7df978ee4aba4f9ce0564c0c1b0e9fc8)
-
-
+* HFunds: [0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9](https://optimistic.etherscan.io/address/0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9)
+* HStargate [0x7F974c1E969c8201c08273b958dA646fe5d536AA](https://optimistic.etherscan.io/address/0x7F974c1E969c8201c08273b958dA646fe5d536AA)
 
 ## Arbitrum Network
 
 ### Proxy Contract:
 
-v2.2.0 (The latest version) [0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9](https://arbiscan.io/address/0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9)
+[0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9](https://arbiscan.io/address/0xd2d63812C72d2455A9613EFDF41FEB4b0B58a7A9)
 
 ### Handlers:
-
-#### For v2.2.0 proxy contract (The latest version)
 
 * HAaveProtocolV3 [0x26799674baF5588580867A104D3Ba22A5b54786F](https://arbiscan.io/address/0x26799674baf5588580867a104d3ba22a5b54786f)
 * HFunds [0xb67F86850d3Ee15F3E844d5E987da5712Cb589D3](https://arbiscan.io/address/0xb67f86850d3ee15f3e844d5e987da5712cb589d3)
 * HParaSwapV5 [0xB88b798F2d68Ee2b5299750B1F0e749D2263ADfa](https://arbiscan.io/address/0xb88b798f2d68ee2b5299750b1f0e749d2263adfa)
 * HUniswapV3 [0x3dc25F78b4Eaed2F3ac2C26b0f4Ae1DEBb08F6e5](https://arbiscan.io/address/0x3dc25f78b4eaed2f3ac2c26b0f4ae1debb08f6e5)
 * HWrappedNativeToken [0xb678B2ae7dF978Ee4Aba4f9ce0564c0c1b0E9FC8](https://arbiscan.io/address/0xb678b2ae7df978ee4aba4f9ce0564c0c1b0e9fc8)
-
-
+* HFunds: [0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9](https://arbiscan.io/address/0x9b824Dd3eC24280E40EF43015ccF3073bF4CC7A9)
+* HStargate [0x7F974c1E969c8201c08273b958dA646fe5d536AA](https://arbiscan.io/address/0x7F974c1E969c8201c08273b958dA646fe5d536AA)
 
 ## Polygon Network
 
 ### Proxy Contract:&#x20;
 
-v1.6.0 (The latest version) [0x125d2E4a83bBba4e6f51a244c494f9A1958D20BB](https://polygonscan.com/address/0x125d2e4a83bbba4e6f51a244c494f9a1958d20bb)
+[0xba3a2F2Abc7610f0e3f0D86B91d5801f694fd563](https://polygonscan.com/address/0xba3a2F2Abc7610f0e3f0D86B91d5801f694fd563)
 
 ### Token:
 
@@ -85,26 +79,20 @@ Token contract: [0x6ddb31002abc64e1479fc439692f7ea061e78165](https://polygonscan
 
 ### Handlers:
 
-#### For v1.6.0 proxy contract (The latest version)
-
-* HQuickSwap [0x6107114BDf5691ADEE675Ea6E9f09d34c6338cc4](https://polygonscan.com/address/0x6107114BDf5691ADEE675Ea6E9f09d34c6338cc4)
-* HSushiSwap [0x987477eF104d7B827aea9894522daaBb7C83055D](https://polygonscan.com/address/0x987477eF104d7B827aea9894522daaBb7C83055D)
-* HFunds [0x3B3f747aC68750Eb936e9116141b79358579DE84](https://polygonscan.com/address/0x3B3f747aC68750Eb936e9116141b79358579DE84)
-* HCurve [0x34e484184F350f3dD01054B8D20fC94e8Ff5d16B](https://polygonscan.com/address/0x34e484184F350f3dD01054B8D20fC94e8Ff5d16B)
-* HWmatic [0x253c788C1Da46019B6045d10514337E31DC938E9](https://polygonscan.com/address/0x253c788C1Da46019B6045d10514337E31DC938E9)
-* HCurveDao [0x40bd318505e00095D0549a0b45553626FDA46114](https://polygonscan.com/address/0x40bd318505e00095D0549a0b45553626FDA46114)
-* HAaveProtocolV2 [0xD4E8f7FfDF98F7C170A48A31d2f6d358829878Af](https://polygonscan.com/address/0xD4E8f7FfDF98F7C170A48A31d2f6d358829878Af)
-
-### Invest Auto-Farming Contracts:
-
-* COMBO / WETH: [0xfBC78E7ecf02048b0648a7ee853970E3070b76bD](https://polygonscan.com/address/0xfBC78E7ecf02048b0648a7ee853970E3070b76bD)
-* USDC / USDT: [0xEDEc1DE56b6339709cEBFcF0C1B06A07B2dfB724](https://polygonscan.com/address/0xEDEc1DE56b6339709cEBFcF0C1B06A07B2dfB724)
-* MATIC / WETH: [0xFcA2656F805A6aE00A1f4deA5c42c7e95F008C8a](https://polygonscan.com/address/0xFcA2656F805A6aE00A1f4deA5c42c7e95F008C8a)
-* MATIC / USDC: [0xAC55a6822cCdFd6BE001b59D49DF81747DD46691](https://polygonscan.com/address/0xAC55a6822cCdFd6BE001b59D49DF81747DD46691)
-* USDC / WETH: [0xC0AF453d7beC57b9A2460E5D5cF117B6921F1431](https://polygonscan.com/address/0xC0AF453d7beC57b9A2460E5D5cF117B6921F1431)
-* WBTC / WETH: [0x66c59cDcBAaD82706dC53AD50B891Ae6a1412D96](https://polygonscan.com/address/0x66c59cDcBAaD82706dC53AD50B891Ae6a1412D96)
-* QUICK / WETH: [0x475FED92d9d20B34D8a1af912cc9D2d9597F587F](https://polygonscan.com/address/0x475FED92d9d20B34D8a1af912cc9D2d9597F587F)
-* WETH / MOCA: [0xcb224540A65688734be7cF7662effc6B402CbF71](https://polygonscan.com/address/0xcb224540A65688734be7cF7662effc6B402CbF71)
+* HQuickSwap: [0x2D9Adbaa958515529bcaa9D58f1339947c086a1c](https://polygonscan.com/address/0x2D9Adbaa958515529bcaa9D58f1339947c086a1c)
+* HSushiSwap: [0x2BE909e853e5F2B9c53C6ff81f6F5855C26F1005](https://polygonscan.com/address/0x2BE909e853e5F2B9c53C6ff81f6F5855C26F1005)
+* HFunds: [0x0744Ac5578EBDF6a406AD0926Bd31f3f83055679](https://polygonscan.com/address/0x0744Ac5578EBDF6a406AD0926Bd31f3f83055679)
+* HCurve: [0x80f9724BEc6B427d4C0F0b784D04B6A9F27D8f4b](https://polygonscan.com/address/0x80f9724BEc6B427d4C0F0b784D04B6A9F27D8f4b)&#x20;
+* HWmatic: [0x9A47ab5EDCB90D8142c394e61f739bb48E2568c9](https://polygonscan.com/address/0x9A47ab5EDCB90D8142c394e61f739bb48E2568c9)
+* HCurveDao: [0x43601Be5cb4278941dc5266857dD2697f5471b2D](https://polygonscan.com/address/0x43601Be5cb4278941dc5266857dD2697f5471b2D)
+* HAaveProtocolV2: [0xfba01178a556575A3949ED681D13272770839971](https://polygonscan.com/address/0xfba01178a556575A3949ED681D13272770839971)
+* HFurucomboStaking: [0x42F486F0A0A062f5F21879b749ff03e569ffBf11](https://polygonscan.com/address/0x42F486F0A0A062f5F21879b749ff03e569ffBf11)
+* HOneInchV3: [0xeAe158F7C43f3F930b0E0F9961C06A28d558De37](https://polygonscan.com/address/0xeAe158F7C43f3F930b0E0F9961C06A28d558De37)
+* HParaSwapV5: [0xaf92eda7b4CB52Bd3D4B3680d8ceA63A65A41A27](https://polygonscan.com/address/0xaf92eda7b4CB52Bd3D4B3680d8ceA63A65A41A27)
+* HUniswapV3: [0x33DDcc998D38070095499Da3cfa531C3A085795e](https://polygonscan.com/address/0x33DDcc998D38070095499Da3cfa531C3A085795e)
+* HFurucomboFunds: [0x3DEe22473335666b4B380159CeD9d62357951f18](https://polygonscan.com/address/0x3DEe22473335666b4B380159CeD9d62357951f18)
+* HAaveProtocolV3: [0xE2c113D30261990252d751E85B7464dD10696f5c](https://polygonscan.com/address/0xE2c113D30261990252d751E85B7464dD10696f5c)
+* HStargate: [0x54d344064245d12488e9f1205d444cB69be636b5](https://polygonscan.com/address/0x54d344064245d12488e9f1205d444cB69be636b5)
 
 ### Funds Contracts:
 
@@ -135,19 +123,13 @@ Token contract: [0x6ddb31002abc64e1479fc439692f7ea061e78165](https://polygonscan
 * HParaSwapV5：[0xDb1222397edc3b0484D590C2d42CC57891AB4dF3](https://polygonscan.com/address/0xDb1222397edc3b0484D590C2d42CC57891AB4dF3)
 * HQuickSwap：[0x3E0E1f4Ac1008a7aB13Bdd54bD10A8C3DA1240bb](https://polygonscan.com/address/0x3E0E1f4Ac1008a7aB13Bdd54bD10A8C3DA1240bb)
 * HSushiSwap：[0x4d1D8B99600Af4118DF633b2d80702d9Bf13D72a](https://polygonscan.com/address/0x4d1D8B99600Af4118DF633b2d80702d9Bf13D72a)
-
-
+* HAaveProtocolV3: [0x7f2Bd410A87546851Dd6C6BF8E6F0E2326753fAC](https://polygonscan.com/address/0x7f2Bd410A87546851Dd6C6BF8E6F0E2326753fAC)
 
 ## Ethereum Network
 
 ### Proxy Contract:
 
-v1.6.0 (The latest version) [0x59daa74f2d15c87aac435ec18cb559f92490c100](https://etherscan.io/address/0x59daa74f2d15c87aac435ec18cb559f92490c100)\
-v1.5.1 [0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01](https://etherscan.io/address/0xefa99fa2703430a38d095a29f6dc32dd9fdc5a01)\
-v1.0.0-1 [0xA013AfbB9A92cEF49e898C87C060e6660E050569](https://etherscan.io/address/0xA013AfbB9A92cEF49e898C87C060e6660E050569)\
-v1.0.0 [0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f](https://etherscan.io/address/0x17e8Ca1b4798B97602895f63206afCd1Fc90Ca5f)\
-v0.13.1 [0xEEbeC7874f46C4452610A11FA6bE0264f7f0557F](https://etherscan.io/address/0xeebec7874f46c4452610a11fa6be0264f7f0557f) \
-v0.4.1 [0x57805e5a227937BAc2B0FdaCaA30413ddac6B8E1](https://etherscan.io/address/0x57805e5a227937bac2b0fdacaa30413ddac6b8e1)
+[0x59daa74f2d15c87aac435ec18cb559f92490c100](https://etherscan.io/address/0x59daa74f2d15c87aac435ec18cb559f92490c100)
 
 ### Token:
 
@@ -158,8 +140,6 @@ Ticker: $rCOMBO (Ethereum Network)\
 Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.io/token/0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a#balances)
 
 ### Handlers:
-
-#### For v1.6.0 proxy contract (The latest version)
 
 * HMaker [0xB83304403900c86ceA5032e3041afF15fEe31c63](https://etherscan.io/address/0xB83304403900c86ceA5032e3041afF15fEe31c63)
 * HUniswapV2 [0xa83509CaB3b68b46212d10a9Eb1cB430c4CDe591](https://etherscan.io/address/0xa83509CaB3b68b46212d10a9Eb1cB430c4CDe591)
@@ -173,10 +153,15 @@ Token contract: [0x2dadc3582c0655e8d21b1519bac30bc40ab14e9a](https://etherscan.i
 * HSushiSwap [0x8f272AA2bB5974F572188558E6d8EcAF179F7C51](https://etherscan.io/address/0x8f272AA2bB5974F572188558E6d8EcAF179F7C51)
 * HBProtocol [0x965a65Edd138e7d9bE5b4786CAd01897e4CA7dC3](https://etherscan.io/address/0x965a65Edd138e7d9bE5b4786CAd01897e4CA7dC3)
 * HOneInchV3 [0x4b87B1eA636Ec939D3ABc993B3C59c724a468D75](https://etherscan.io/address/0x4b87B1eA636Ec939D3ABc993B3C59c724a468D75)
+* HOneInchV5 [0x0eAF217ABf70518bFD3C5f055F093D73F55E9586](https://etherscan.io/address/0x0eAF217ABf70518bFD3C5f055F093D73F55E9586)
 * HPolygon [0x9cb948bcC70A99aCfAE19d4DAcE218bAF24e247f](https://etherscan.io/address/0x9cb948bcC70A99aCfAE19d4DAcE218bAF24e247f)
 * HFurucomboStaking [0xFaE2E00A6fE928BEe75E6c0C9dd0E2EA793F1a6f](https://etherscan.io/address/0xFaE2E00A6fE928BEe75E6c0C9dd0E2EA793F1a6f)
 * HStakingRewardsAdapter [0xE7b9b3334633afbf009805aD791d0D1183E413ec](https://etherscan.io/address/0xE7b9b3334633afbf009805aD791d0D1183E413ec)
 * HGelatoV2LimitOrder [0x9dd0DA0aCcceAD29f2A74106ba3aC860389d73C3](https://etherscan.io/address/0x9dd0DA0aCcceAD29f2A74106ba3aC860389d73C3)
-* HFunds [0xf0B49c7d7C242bF3822cA5f68598ee614a905B37](https://etherscan.io/address/0xf0B49c7d7C242bF3822cA5f68598ee614a905B37)
+* HFunds [0xB4bbCC63B8229153B2479CFf1D90b5d32f12611e](https://etherscan.io/address/0xB4bbCC63B8229153B2479CFf1D90b5d32f12611e)
 * HWeth [0x9e2Ba701cf5Dc47096060BB0a773e732BEE68dE6](https://etherscan.io/address/0x9e2Ba701cf5Dc47096060BB0a773e732BEE68dE6)
 * HGasToken [0x2e033F797FfF089B821Cbaa2B54207c68324b2EA](https://etherscan.io/address/0x2e033F797FfF089B821Cbaa2B54207c68324b2EA)
+* HParaSwapV5 [0x1dfdaE2B34078FE50B5850CeddB8788f60941f53](https://etherscan.io/address/0x1dfdaE2B34078FE50B5850CeddB8788f60941f53)
+* HLido [0xE506919BBD96681ce0cb7e4b484ccCE483EB02c1](https://etherscan.io/address/0xE506919BBD96681ce0cb7e4b484ccCE483EB02c1)
+* HStargate [0x6B0b999DC37ee52d451ccB9d82dc249B0194F1F8](https://etherscan.io/address/0x6B0b999DC37ee52d451ccB9d82dc249B0194F1F8)
+* HAaveProtocolV3: [0x8cf3EA148898a2153536b05d38c45f862ddEa926](https://etherscan.io/address/0x8cf3EA148898a2153536b05d38c45f862ddEa926)
