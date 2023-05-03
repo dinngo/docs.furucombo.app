@@ -2,17 +2,17 @@
 
 * [🤓 Furucombo Introduction](README.md)
 
-## Porject Mode
+## Project Mode
 
-* [Create Page](porject-mode/combo-page/README.md)
-  * [DeFi Cube FAQ](porject-mode/combo-page/defi-cube-faq.md)
-  * [Utility Cube FAQ](porject-mode/combo-page/utility-cube-faq.md)
-  * [Other FAQ](porject-mode/combo-page/other-faq.md)
-* [Invest Page](porject-mode/invest-page.md)
-* [Learn Page](porject-mode/explore-page.md)
-* [Lending Dashboard](porject-mode/lending-dashboard.md)
-* [Decombo Page](porject-mode/decombo-page.md)
-* [Loyalty Program V2](porject-mode/loyalty-program.md)
+* [Create Page](project-mode/combo-page/README.md)
+  * [DeFi Cube FAQ](project-mode/combo-page/defi-cube-faq.md)
+  * [Utility Cube FAQ](project-mode/combo-page/utility-cube-faq.md)
+  * [Other FAQ](project-mode/combo-page/other-faq.md)
+* [Invest Page](project-mode/invest-page.md)
+* [Learn Page](project-mode/explore-page.md)
+* [Lending Dashboard](project-mode/lending-dashboard.md)
+* [Decombo Page](project-mode/decombo-page.md)
+* [Loyalty Program V2](project-mode/loyalty-program.md)
 
 ## Governance
 
