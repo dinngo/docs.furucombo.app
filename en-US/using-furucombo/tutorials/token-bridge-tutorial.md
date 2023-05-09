@@ -1,8 +1,14 @@
+---
+description: >-
+  You can now bridge any token that Stargate supports to any network that’s
+  available on Furucombo!
+---
+
 # Token Bridge Tutorial
 
+<figure><img src="../../.gitbook/assets/Tutorial Token Bridge.png" alt=""><figcaption></figcaption></figure>
+
 With the integration of Stargate on Furucombo, you can now bridge any token that Stargate supports to any network that’s available on Furucombo.
-
-
 
 This includes the following networks:
 
