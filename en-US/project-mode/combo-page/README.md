@@ -6,6 +6,14 @@ description: >-
 
 # Create Page
 
+The Create mode is a DeFi aggregator tool that combines various features of different protocols. With Create mode, you can select the trading actions you want and combine them into a combo. This allows you to execute multiple trading actions in a single transaction, making it easy to manage and monitor your trades.
+
+
+
+If you're more of a visual learner, here's a video tutorial for you!
+
+{% embed url="https://youtu.be/Dhov_aEMbMw" %}
+
 ## DeFis we support&#x20;
 
 ### Ethereum
