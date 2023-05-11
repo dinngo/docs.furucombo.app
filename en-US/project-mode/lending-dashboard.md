@@ -38,4 +38,4 @@ Click the ‘Lending Dashboard’ at the top to be greeted with the new interfac
   * Note: This will leverage your position, and also increase your utilization rate. Make sure you understand the risks before taking on leverage.
 * **Deleverage:** This allows you to close your position on Aave without first repaying your debts. This is useful to avoid liquidation, or to close your position when you do not have any upfront funds.
 
-Visit our [tutorial page](https://docs.furucombo.app/using-furucombo/tutorials/lending-dashboard-tutorial) for a guide on how to take advantage of these new features.
+Visit our [tutorial page](https://docs.furucombo.app/using-furucombo/tutorials/lending-dashboard-tutorial) for a guide on how to take advantage of these new features. If you are more of a visual learner, you can watch our [Youtube tutorial](https://www.youtube.com/watch?v=ev7cDY7KZ4A) instead.
