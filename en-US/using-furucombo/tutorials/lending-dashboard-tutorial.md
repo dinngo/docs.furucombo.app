@@ -4,7 +4,7 @@
 
 The [Lending Dashboard](http://furucombo.app/lending) is a new feature for [Furucombo](https://furucombo.app/) that allows you to easily manage your positions on lending protocols such as Aave and Compound with the click of a button instead of manually adding each cube.
 
-This tutorial will guide you through the new features and how to complete each kind of position management.
+This tutorial will guide you through the new features and how to complete each kind of position management. If you are more of a visual learner, you can use our [video tutorial](https://youtu.be/ev7cDY7KZ4A) instead.
 
 The following combinations are possible from the new Lending Dashboard. If you already know what kind of combination you are looking to perform, you can jump to the different sections by clicking the link below:
 
