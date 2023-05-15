@@ -18,9 +18,13 @@ Now you get the idea of what Furucombo is, let’s get started!
 
 ### ・DeFi Menu <a href="#e7c5" id="e7c5"></a>
 
-![](<../../.gitbook/assets/image (27).png>)
-
 To start creating a combo, first, you’ll need to select a DeFi protocol. Click the “＋” cube then a menu of DeFi protocols will pop up. Here you can choose which DeFi protocol you want to put in your combo. Each button represents a cube to be set up. Each cube means an action to be executed. The search feature at the top lets you search by defi name, defi action (e.g. swap, add liquidity, etc) or name of the token that is supported under certain defi.
+
+![DeFi menu](<../../.gitbook/assets/image (27).png>)
+
+If you are interested in utilizing pre-built combo strategies on Furucombo, you can easily access them by clicking the "Quick" menu button. Our team has compiled a list of the most popular trading strategies used by Furucombo users, which can save you time and effort in building everything from scratch. This feature is especially helpful for those who are new to Furucombo and want to get started quickly, or for those who prefer to use established strategies instead of creating their own. Give it a try and see how it can streamline your trading experience on Furucombo.
+
+<figure><img src="../../.gitbook/assets/Screenshot 2023-05-15 at 4.00.57 PM.png" alt=""><figcaption><p>Quick menu</p></figcaption></figure>
 
 ### ・Initial Funds <a href="#1bcf" id="1bcf"></a>
 
