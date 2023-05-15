@@ -6,9 +6,7 @@ description: >-
 
 # Create Page
 
-The Create mode is a DeFi aggregator tool that combines various features of different protocols. With Create mode, you can select the trading actions you want and combine them into a combo. This allows you to execute multiple trading actions in a single transaction, making it easy to manage and monitor your trades.
-
-
+The Create mode is a DeFi aggregator tool that combines various features of different protocols. With Create mode, you can select the trading actions you want and combine them into a combo. This allows you to execute multiple trading actions in a single transaction, making it easy to manage and monitor your trades. Here's a beginner guide that can help you get started with Furucombo: [Beginner’s Guide](https://docs.furucombo.app/using-furucombo/tutorials/beginners-guide)!
 
 If you're more of a visual learner, here's a video tutorial for you!
 
