@@ -22,6 +22,8 @@ To start creating a combo, first, you’ll need to select a DeFi protocol. Click
 
 ![DeFi menu](<../../.gitbook/assets/image (27).png>)
 
+### ・Quick Menu <a href="#e7c5" id="e7c5"></a>
+
 If you are interested in utilizing pre-built combo strategies on Furucombo, you can easily access them by clicking the "Quick" menu button. Our team has compiled a list of the most popular trading strategies used by Furucombo users, which can save you time and effort in building everything from scratch. This menu is especially helpful for those who are new to Furucombo and want to get started quickly, or for those who prefer to use established strategies instead of creating their own. Give it a try and see how it can streamline your trading experience on Furucombo.
 
 <figure><img src="../../.gitbook/assets/Screenshot 2023-05-15 at 4.00.57 PM.png" alt=""><figcaption><p>Quick menu</p></figcaption></figure>
