@@ -37,6 +37,8 @@ The following are the available functions for Compound V3:
 
 <figure><img src="../../.gitbook/assets/image4.png" alt=""><figcaption></figcaption></figure>
 
+###
+
 ### Using your collateral to Borrow
 
 1. Now that you have made a deposit into Compound V3, you can borrow from your collateral. Simply go into the DeFi menu again, and select the ‘Borrow’ cube.
@@ -53,17 +55,23 @@ The following are the available functions for Compound V3:
 
 <figure><img src="../../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
 
-#### Repaying your Debts
+###
+
+### Repaying your Debts
 
 1. To repay your debts, simply add the ‘Repay’ cube. Next, determine the amount you want to repay. Also listed on the cube interface will be the Total Debt, Total Collateral, and Utilization to help you determine how much you want to repay. Once you have decided, insert the input token and the amount you wish to repay.
 2. Next, hit ‘Set’, and ‘Approve’ and ‘Send’. Once the transaction has completed you have repaid some or all of your outstanding debt.
 
 <figure><img src="../../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
 
-#### Withdrawing your Deposited Assets
+###
+
+### Withdrawing your Deposited Assets
 
 1. Once you have repaid your debts, you can now withdraw your assets. Simply add the ‘Withdraw USDC’ or ‘Withdraw ETH’ cube and select the output token and amount. Note that the Total Debt, Total Collateral, Utilization, and Supply Balance will be displayed on the interface.
 2. Next, hit ‘Set’, and ‘Approve’ and ‘Send’. Once the transaction has completed, you will have withdrawn some or all of your assets from Compound.
+
+###
 
 ### Advanced Strategies
 
@@ -73,6 +81,8 @@ You can also chain together combinations when using the Compound cubes to do adv
 * [Debt Swap](https://docs.furucombo.app/using-furucombo/tutorials/debt-swap-tutorial) - This allows you to swap your debt position (from ETH to USDC or USDC to ETH) without first repaying your outstanding debt position using flashloans
 * [Collateral Swap](https://docs.furucombo.app/using-furucombo/tutorials/collateral-swap-tutorial) - This allows you to swap your collateral position (from ETH to USDC or USDC to ETH) without first repaying your outstanding debt using flashloans
 * [De-leverage](https://docs.furucombo.app/using-furucombo/tutorials/de-leverage-position-tutorial) - This allows you to close your position without any upfront funds by using flashloans and the collateral you have deposited into Compound
+
+
 
 This is a tutorial and summary on how to utilize Compound V3 on Furucombo. If you have any questions, please let us know on our [community Discord](https://go.furucombo.app/Discord), we are always happy to assist!
 
