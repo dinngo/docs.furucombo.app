@@ -1,5 +1,7 @@
 # Compound V3 Tutorial
 
+<figure><img src="../../.gitbook/assets/Compound V3.png" alt=""><figcaption></figcaption></figure>
+
 Compound is a lending protocol that allows you to earn some return from your deposit, and allows you to borrow from that collateral. There is a cost to borrowing, and you can be liquidated if your debt to loan value ratio gets too high.\
 
 
