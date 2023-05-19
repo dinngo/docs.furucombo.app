@@ -40,6 +40,7 @@
   * [Close Maker vault](using-furucombo/tutorials/close-maker-vault.md)
   * [Instantly Swap cTokens on Compound](using-furucombo/tutorials/instantly-swap-ctokens-on-compound.md)
   * [Compound Cubes](using-furucombo/tutorials/compound-cubes.md)
+  * [Compound V3 Tutorial](using-furucombo/tutorials/compound-v3-tutorial.md)
   * [Synthetix Cubes](using-furucombo/tutorials/synthetix-cubes.md)
   * [Furucombo Invest](using-furucombo/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo Fund](using-furucombo/tutorials/furucombo-fund.md)
