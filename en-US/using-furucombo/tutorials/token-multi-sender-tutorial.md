@@ -6,7 +6,7 @@ description: "How do I send Erc20 crypto tokens to multiple addresses all at\_on
 
 <figure><img src="../../.gitbook/assets/Tutorial Token Multi-Sender.png" alt=""><figcaption><p>Token Multi-Sender Tutorial</p></figcaption></figure>
 
-This guide is to help you understand the utility and how to set up the Multi-Send cube on [Furucombo](https://furucombo.app/). The Multi-Send cube on [Furucombo](https://furucombo.app/) allows you to send a token to multiple addresses. This can be useful to pay members of a DAO or transfer your tokens out of a wallet to diversify risk.
+This guide is to help you understand the utility and how to set up the Multi-Send cube on [Furucombo](https://furucombo.app/). The Multi-Send cube on [Furucombo](https://furucombo.app/) allows you to send a token to multiple addresses. This can be useful to pay members of a DAO or transfer your tokens out of a wallet to diversify risk. If you are more of a visual learner, you can follow our [Video Tutorial](https://youtu.be/v4FkR\_d-h6A) instead.
 
 #### Steps to set up the Multi-Send cube:
 
