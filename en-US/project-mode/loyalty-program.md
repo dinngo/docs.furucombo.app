@@ -4,12 +4,6 @@
 
 Furucombo is happy to announce we are updating our loyalty and points program to be more inclusive of our new products that have launched. This includes the standard create mode, invest mode, and fund mode.
 
-What’s new from the old point system:
-
-* Points are broken up into rounds
-* Points will expire at the end of each round
-* The 4th round will start from April 1st, 2023, onwards 3 months. (Previous round: January 1st, 2023)
-
 ## **How to Earn Points**
 
 With the inclusion of fees on the platform, we decided to offer reimbursements to our loyal users in the form of points. These points can be used to purchase the wooden, metal, or diamond cubes which offer a range of fee discounts.
