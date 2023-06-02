@@ -47,6 +47,7 @@
   * [Fund Manager Setup](using-furucombo/tutorials/fund-manager-setup.md)
   * [Token Bridge Tutorial](using-furucombo/tutorials/token-bridge-tutorial.md)
   * [Token Multi-Sender Tutorial](using-furucombo/tutorials/token-multi-sender-tutorial.md)
+  * [Fiat to Crypto on Furucombo Tutorial](using-furucombo/tutorials/fiat-to-crypto-on-furucombo-tutorial.md)
   * [Leveraged Long Position Tutorial](using-furucombo/tutorials/leveraged-long-position-tutorial.md)
   * [Leveraged Short Position Tutorial](using-furucombo/tutorials/leveraged-short-position-tutorial.md)
   * [De-Leverage Position Tutorial](using-furucombo/tutorials/de-leverage-position-tutorial.md)
