@@ -13,7 +13,7 @@
 
 * [COMBO Mijnbouw Seizoen 3 (lopend)](other-faq/combo-mining-season-3.md)
 * [Hoe te storten voor liquiditeitsmining](other-faq/how-to-stake-for-liquidity-mining.md)
-* [COMBO is hier](other-faq/combo-is-here/README.md)
+* [COMBO is here](other-faq/combo-is-here/README.md)
   * [COMBO veelgestelde vragen](other-faq/combo-is-here/combo-faq.md)
   * [COMBO's hulpprogramma](other-faq/combo-is-here/combos-utility.md)
   * [COMBO-Distributie](other-faq/combo-is-here/combo-distribution.md)
