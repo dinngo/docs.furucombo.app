@@ -31,6 +31,7 @@
 ## Using Furucombo
 
 * [Furucombo Tutorials](using-furucombo/tutorials/README.md)
+  * [Furucombo on Metis Tutorial](using-furucombo/tutorials/furucombo-on-metis-tutorial.md)
   * [Beginner’s Guide](using-furucombo/tutorials/beginners-guide.md)
   * [Lending Dashboard Tutorial](using-furucombo/tutorials/lending-dashboard-tutorial.md)
   * [Flashloan Arbitrage Combo](using-furucombo/tutorials/flashloan-combo.md)
