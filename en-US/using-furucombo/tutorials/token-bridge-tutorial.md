@@ -17,7 +17,8 @@ This includes the following networks:
 * Arbitrum
 * Optimism
 * Fantom
-* Avalanche\
+* Avalanche
+* Metis\
 
 
 And the following tokens:
@@ -31,7 +32,7 @@ And the following tokens:
 * FRAX
   * Available on: Ethereum, Optimism, Arbitrum, Avalanche
 * USDT
-  * Available on: Ethereum, Polygon, Arbitrum, Avalanche
+  * Available on: Ethereum, Polygon, Arbitrum, Avalanche, Metis
 * ETH
   * Available on: Arbitrum, Ethereum, Optimism
 * DAI
@@ -40,6 +41,8 @@ And the following tokens:
   * Available on: Ethereum, Optimism, Arbitrum
 * sUSD
   * Available on: Ethereum, Optimism
+* Metis
+  * Available on: Ethereum, Metis
 
 #### &#x20;How to use the token bridge cube
 
