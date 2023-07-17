@@ -42,4 +42,6 @@ Visit our [tutorial page](https://docs.furucombo.app/using-furucombo/tutorials/l
 
 
 
+### When Fees are Applied
+
 The Lending Dashboard has a base fee of 0.25% of the positions operation, this includes the initial fee calculation. This fee only applies to collateral swap, debt swap, leverage, and deleverage. For example, if you perform a collateral swap of $2000 USDC total, then the total fee is equal to (2000 \* 0.25%) = $5.
