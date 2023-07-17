@@ -24,7 +24,7 @@ How to use the Create mode
 
 ## Do you charge any fees?
 
-Furucombo has recently updated its fee structure, and it is dependent on which action or product you are using ([#CreateMode](https://docs.furucombo.app/porject-mode/combo-page#do-you-charge-any-fees), [#InvestMode](https://docs.furucombo.app/porject-mode/invest-page#do-you-charge-any-fees)). All fees generated are deposited into the Furucombo treasury to be managed by governance.
+Furucombo has recently updated its fee structure, and it is dependent on which action or product you are using ([#CreateMode](https://docs.furucombo.app/porject-mode/combo-page#do-you-charge-any-fees), [#InvestMode](https://docs.furucombo.app/porject-mode/invest-page#do-you-charge-any-fees), [#LendingDashboard](https://docs.furucombo.app/project-mode/lending-dashboard#when-fees-are-applied)). All fees generated are deposited into the Furucombo treasury to be managed by governance.
 
 ## What is the risk of using Furucombo?
 
