@@ -39,3 +39,7 @@ Click the ‘Lending Dashboard’ at the top to be greeted with the new interfac
 * **Deleverage:** This allows you to close your position on Aave without first repaying your debts. This is useful to avoid liquidation, or to close your position when you do not have any upfront funds.
 
 Visit our [tutorial page](https://docs.furucombo.app/using-furucombo/tutorials/lending-dashboard-tutorial) for a guide on how to take advantage of these new features. If you are more of a visual learner, you can watch our [Youtube tutorial](https://www.youtube.com/watch?v=ev7cDY7KZ4A) instead.
+
+
+
+The Lending Dashboard has a base fee of 0.25% of the positions operation, this includes the initial fee calculation. This fee only applies to collateral swap, debt swap, leverage, and deleverage. For example, if you perform a collateral swap of $2000 USDC total, then the total fee is equal to (2000 \* 0.25%) = $5.
