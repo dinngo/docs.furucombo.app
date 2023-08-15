@@ -26,7 +26,6 @@
   * [For Builders](governance/furucombo-tokenomics/for-builders.md)
   * [For Masters](governance/furucombo-tokenomics/for-degens.md)
 * [Community Vault](governance/community-vault.md)
-* [Forum](https://forum.furucombo.app/)
 
 ## Using Furucombo
 
