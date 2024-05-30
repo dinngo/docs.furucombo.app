@@ -10,10 +10,6 @@ description: >-
 
 Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.&#x20;
 
-### [**Invest mode**](https://docs.furucombo.app/porject-mode/combo-page)&#x20;
-
-Explore and Invest in Furucombo's wealth management farms with ease and let us help you make the most of your money.
-
 ### [**Create mode**](https://docs.furucombo.app/porject-mode/invest-page)&#x20;
 
 It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes, then Furucombo bundles all the cubes into one transaction and sends out. We call this building-blocks setup a “combo”.&#x20;
@@ -24,13 +20,9 @@ How to use the Create mode
 
 ## Do you charge any fees?
 
-Furucombo has recently updated its fee structure, and it is dependent on which action or product you are using ([#CreateMode](https://docs.furucombo.app/porject-mode/combo-page#do-you-charge-any-fees), [#InvestMode](https://docs.furucombo.app/porject-mode/invest-page#do-you-charge-any-fees), [#LendingDashboard](https://docs.furucombo.app/project-mode/lending-dashboard#when-fees-are-applied)). All fees generated are deposited into the Furucombo treasury to be managed by governance.
+Furucombo has recently updated its fee structure, and it is dependent on which action or product you are using ([#CreateMode](https://docs.furucombo.app/porject-mode/combo-page#do-you-charge-any-fees), [#LendingDashboard](https://docs.furucombo.app/project-mode/lending-dashboard#when-fees-are-applied)). All fees generated are deposited into the Furucombo treasury to be managed by governance.
 
 ## What is the risk of using Furucombo?
-
-### **Invest mode**&#x20;
-
-Most of pools are developed and deployed by external DeFis (e.g. Uniswap, Yearn, etc) and are subject to their smart contract risks. Currently only the smart contracts of the auto-invest Farms are developed be Furucombo team and those contracts have been [audited](https://docs.furucombo.app/audit#furucombo-smart-wallet-and-auto-farming-feature-contract).
 
 ### **Create mode**&#x20;
 
