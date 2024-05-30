@@ -9,10 +9,8 @@
   * [Utility Cube FAQ](project-mode/combo-page/utility-cube-faq.md)
   * [Other FAQ](project-mode/combo-page/other-faq.md)
 * [Invest Page](project-mode/invest-page.md)
-* [Learn Page](project-mode/explore-page.md)
 * [Lending Dashboard](project-mode/lending-dashboard.md)
 * [Decombo Page](project-mode/decombo-page.md)
-* [Loyalty Program V2](project-mode/loyalty-program.md)
 
 ## Governance
 
