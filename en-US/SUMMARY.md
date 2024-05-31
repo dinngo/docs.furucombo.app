@@ -8,7 +8,7 @@
   * [DeFi Cube FAQ](project-mode/combo-page/defi-cube-faq.md)
   * [Utility Cube FAQ](project-mode/combo-page/utility-cube-faq.md)
   * [Other FAQ](project-mode/combo-page/other-faq.md)
-* [Invest Page](project-mode/invest-page.md)
+* [Fund Page](project-mode/invest-page.md)
 * [Lending Dashboard](project-mode/lending-dashboard.md)
 * [Decombo Page](project-mode/decombo-page.md)
 
