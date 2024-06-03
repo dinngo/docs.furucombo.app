@@ -6,38 +6,9 @@ description: >-
 
 # 🤓 Furucombo Introduction
 
-## What is [Furucombo](https://furucombo.app/)?
+Furucombo simplifies complex DeFi (Decentralized Finance) strategies through a user-friendly platform. Leveraging [Protocolink and the Lending SDK](https://protocolink.com/) as its backbone, Furucombo empowers users to:
 
-Furucombo starts from a tool built for end-users to optimize their DeFi strategy simply by drag and drop, and it's now a DeFi portal to help you optimize your crypto wealth.&#x20;
+* **Craft Multi-Step DeFi Strategies:** [Furucombo Create](https://furucombo.app/combo) integrates popular DeFi protocols via [Protocolink](https://protocolink.com/). This allows users to seamlessly combine different DeFi actions into a single transaction. Imagine borrowing from one protocol, swapping tokens on another, and then depositing your earnings into a third – all in one go! This streamlines the process and enhances security compared to executing these steps individually.
+* **Effortlessly Manage Borrowing and Lending:** [The Lending Dashboard](https://furucombo.app/lending) provides a clear and intuitive interface to view and manage your positions across various lending protocols. Built on top of [Protocolink](https://protocolink.com/), the Lending SDK unlocks powerful position management strategies. With just a few clicks on the Lending Dashboard, you can execute actions like collateral swaps, debt swaps, leverage positions, or deleverage them – all facilitated by flash loans.
 
-### [**Create mode**](https://docs.furucombo.app/porject-mode/invest-page)&#x20;
-
-It visualizes complex DeFi protocols into cubes. Users setup inputs/outputs and the order of the cubes, then Furucombo bundles all the cubes into one transaction and sends out. We call this building-blocks setup a “combo”.&#x20;
-
-{% embed url="https://www.youtube.com/watch?v=wCfMm2a91qs&feature=youtu.be" %}
-How to use the Create mode
-{% endembed %}
-
-## Do you charge any fees?
-
-Furucombo has recently updated its fee structure, and it is dependent on which action or product you are using ([#CreateMode](https://docs.furucombo.app/porject-mode/combo-page#do-you-charge-any-fees), [#LendingDashboard](https://docs.furucombo.app/project-mode/lending-dashboard#when-fees-are-applied)). All fees generated are deposited into the Furucombo treasury to be managed by governance.
-
-## What is the risk of using Furucombo?
-
-### **Create mode**&#x20;
-
-On Furucombo, we use a proxy contract and handler contracts to execute your transactions across different DeFi protocols. Once the transaction is executed successfully, the proxy contract sends all the funds back to your wallet. That being said, the proxy contract does not hold any funds.
-
-## Is Furucombo open-sourced?
-
-You can find our proxy contract is verified [on Etherscan and Polygon](https://docs.furucombo.app/resources/smart-contracts), where you can see the contract source code. The rest of Furucombo is not open-sourced yet.
-
-## Does Furucombo have a token?
-
-Yes, here's our official COMBO token address:
-
-Ticker: $COMBO (Ethereum Network)\
-Token contract: [0xfFffFffF2ba8F66D4e51811C5190992176930278](https://etherscan.io/token/0xfFffFffF2ba8F66D4e51811C5190992176930278)
-
-Ticker: $COMBO (Polygon Network)\
-Token contract: [0x6ddb31002abc64e1479fc439692f7ea061e78165](https://polygonscan.com/token/0x6ddb31002abc64e1479fc439692f7ea061e78165)
+By combining these functionalities, Furucombo positions itself as a valuable tool for both DeFi beginners and experienced users seeking to optimize their strategies.
