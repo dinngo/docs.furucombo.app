@@ -31,10 +31,3 @@ Return Funds cube is used when you want to send ETH or tokens back to your walle
 For example (see below image), you want to swap your collaterals on Compound, say cDAI to cETH. When you borrow ETH from flashloan and supply the ETH to Compound, the cETH you see in the second cube is actually sent to Furucombo's proxy. Your cDAI are locked until you have enough cETH supporting your debt, so here we need "Return Funds" cube which transfers cETH from Furucombo's proxy to your wallet. And in the next cube, you move your cDAI to Furucombo's proxy by "Add Funds" cube!
 
 <figure><img src="../../.gitbook/assets/image (35).png" alt="Compound cToken Collateral Swap"><figcaption><p>Compound Collateral Swap</p></figcaption></figure>
-
-### What is Gas Saver?
-
-Gas Saver cube is used when you have some CHI or GST2 tokens in your wallet. When you burn them (esp at a high gas price), you get a refund to make the gas cost much cheaper to execute than the same transaction that doesn't use GasToken. To learn more about gas token, check out the links below:
-
-* [GasToken.io](https://gastoken.io)
-* [CHI token by 1inch ](https://medium.com/@1inch.exchange/everything-you-wanted-to-know-about-chi-gastoken-a1ba0ea55bf3)
