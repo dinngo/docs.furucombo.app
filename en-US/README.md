@@ -4,7 +4,7 @@ description: >-
   automate DeFi trading for everyone!
 ---
 
-# 🤓 Furucombo Introduction
+# 🧊 Furucombo Introduction
 
 Furucombo simplifies complex DeFi (Decentralized Finance) strategies through a user-friendly platform. Leveraging [Protocolink and the Lending SDK](https://protocolink.com/) as its backbone, Furucombo empowers users to:
 

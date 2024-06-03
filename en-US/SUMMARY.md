@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🤓 Furucombo Introduction](README.md)
+* [🧊 Furucombo Introduction](README.md)
 
 ## Project Mode
 
