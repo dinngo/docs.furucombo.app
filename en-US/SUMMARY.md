@@ -10,11 +10,9 @@
   * [Other FAQ](project-mode/combo-page/other-faq.md)
 * [Fund Page](project-mode/invest-page.md)
 * [Lending Dashboard](project-mode/lending-dashboard.md)
-* [Decombo Page](project-mode/decombo-page.md)
 
 ## Governance
 
-* [Furucombo V2 Roadmap](governance/furucombo-v2-prime-and-roadmap.md)
 * [COMBO Token](governance/combo-is-here/README.md)
   * [COMBO FAQ](governance/combo-is-here/combo-faq.md)
   * [COMBO's Utility](governance/combo-is-here/combos-utility.md)
@@ -34,13 +32,8 @@
   * [Flashloan Arbitrage Combo](using-furucombo/tutorials/flashloan-combo.md)
   * [Flashloan Troubleshooting](using-furucombo/tutorials/troubleshooting-flash-loans.md)
   * [Passive Income | Part 1](using-furucombo/tutorials/passive-income-part1.md)
-  * [Boost Maker vault](using-furucombo/tutorials/boost-maker-vault.md)
-  * [Close Maker vault](using-furucombo/tutorials/close-maker-vault.md)
   * [Instantly Swap cTokens on Compound](using-furucombo/tutorials/instantly-swap-ctokens-on-compound.md)
-  * [Compound Cubes](using-furucombo/tutorials/compound-cubes.md)
   * [Compound V3 Tutorial](using-furucombo/tutorials/compound-v3-tutorial.md)
-  * [Synthetix Cubes](using-furucombo/tutorials/synthetix-cubes.md)
-  * [Furucombo Invest](using-furucombo/tutorials/furucombo-invest-tutorial.md)
   * [Furucombo Fund](using-furucombo/tutorials/furucombo-fund.md)
   * [Fund Manager Setup](using-furucombo/tutorials/fund-manager-setup.md)
   * [Token Bridge Tutorial](using-furucombo/tutorials/token-bridge-tutorial.md)

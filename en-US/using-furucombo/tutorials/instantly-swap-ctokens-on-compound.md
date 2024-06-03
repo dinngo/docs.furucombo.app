@@ -12,7 +12,7 @@ In our previous article, [Passive income combo](https://docs.furucombo.app/using
 
 ![Compound dashboard](https://miro.medium.com/max/5760/1\*JM8PtcHBI7W3Vnf5P5NpIQ.png)
 
-## How to swap between cTokens? <a href="#4c47" id="4c47"></a>
+## How to swap between cTokens? <a href="#id-4c47" id="id-4c47"></a>
 
 There are three ways to swap cTokens. Two of them are for users who don’t have debt on Compound and one for those who do.
 
@@ -23,7 +23,7 @@ If you don’t have any debt on Compound and want to swap your cTokens to anothe
 * Basic level: Build combo manually
 * Pro level: Instant swap panel. Skip building. Just use Furucombo’s latest feature on the [Learn](https://furucombo.app/explore/combo\_compound\_00001)[ page](https://furucombo.app/explore/combo\_compound\_00001).
 
-### 1) **Basic level:** Build combo manually <a href="#6750" id="6750"></a>
+### 1) **Basic level:** Build combo manually <a href="#id-6750" id="id-6750"></a>
 
 ```
 Step 1: Withdraw cToken A from Compound
@@ -33,23 +33,11 @@ Step 3: Supply Token B to Compound and get cToken B
 
 ![Basic level: Use Furucombo‘s combo to swap cTokens](https://miro.medium.com/max/5760/1\*U5SfOrJosbewoviDQtBd9g.png)
 
-### 2) Pro Level: Instant swap panel <a href="#8116" id="8116"></a>
-
-Furucombo has simplified the basic level into a [setup form](https://go.furucombo.app/Qvf8O). There, you can swap cTokens with ease by selecting the cTokens (From & To) and entering the amount. In the setup form, you can also clearly see the before-and-after change of APY.
-
-```
-Step 1: Select cToken A & entre the amount
-Step 2: Select your traget cToken B in the Output section
-Step 3: Approve & Send the transaction
-```
-
-![Pro Level: Instant swap panel](https://miro.medium.com/max/5760/1\*E1t6Cke-isPnev-mk-\_adA.png)
-
-### cToken swapping with debts… <a href="#2aa1" id="2aa1"></a>
+### cToken swapping with debts… <a href="#id-2aa1" id="id-2aa1"></a>
 
 If you have debts on Compound and you want to swap your cTokens from one to another, well… it’s a bit complicated. Get ready to wrap your head around or you may jump to the end of the story → use our [pre-built Compound Collateral Swap Combo](https://furucombo.app/combo/bti7tdi6bifc72uvqpeg?refreshPrice=1) to execute the swapping.
 
-### 3) God Level: [Compound Collateral Swap](https://furucombo.app/combo/bti7tdi6bifc72uvqpeg?refreshPrice=1) <a href="#5107" id="5107"></a>
+### 2) God Level: [Compound Collateral Swap](https://furucombo.app/combo/bti7tdi6bifc72uvqpeg?refreshPrice=1) <a href="#id-5107" id="id-5107"></a>
 
 You may wonder, why can’t you use the previous swap cToken combo to do the same? The answer is because you have debts on Compound. Your cTokens are, therefore, collaterals, and they are locked until a) your debts are paid or b) you supply more funds to increase the collateralization ratio. The strategy below takes b option. We use flashloan to double your supply volume first and withdraw original collateral to pay back the flashloan. In this case, no upfront funds are needed.
 
@@ -77,7 +65,6 @@ Step 7: Repay USDC to flashloan with fee
 If you have read all the way through here, you’re officially a combo master. Found which way suits you the best?
 
 * Basic level: [Build combo manually](https://furucombo.app/combo)
-* Pro Level: [Instant swap panel](https://go.furucombo.app/Qvf8O)
 * God Level: [Compound Collateral Swap](https://furucombo.app/combo/bti7tdi6bifc72uvqpeg?refreshPrice=1)
 
 _🎉 Bravo! You’ve swapped your cTokens. Don’t forget to share your result on Twitter. 🎉_
