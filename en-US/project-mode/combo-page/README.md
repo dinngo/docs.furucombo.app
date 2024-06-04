@@ -68,10 +68,9 @@ Here's a beginner guide that can help you get started with Furucombo: [Beginnerâ
 
 ### Metis
 
-| Swapping                                   | Lending                       | Other |
-| ------------------------------------------ | ----------------------------- | ----- |
-| [OpenOcean](https://openocean.finance/) v2 | [Aave](https://aave.com/) v3  |       |
-|                                            | [Spark Fi](https://spark.fi/) |       |
+| Swapping                                   | Lending                      | Other |
+| ------------------------------------------ | ---------------------------- | ----- |
+| [OpenOcean](https://openocean.finance/) v2 | [Aave](https://aave.com/) v3 |       |
 
 ## Do you charge any fees?
 
@@ -86,12 +85,10 @@ Furucombo has recently updated its fee structure, and it is dependent on which a
   2. Deposits or withdrawals to vaults or lending protocols&#x20;
   3. Repaying debts&#x20;
   4. Borrowing funds
-  5. Adding or removing liquidity&#x20;
-  6. Staking or unstaking tokens&#x20;
-  7. Sending tokens&#x20;
-  8. Bridging tokens&#x20;
-  9. Wrapping tokens
+  5. Sending tokens&#x20;
+  6. Bridging tokens&#x20;
+  7. Wrapping tokens
 
-2. A 0.05% fee applies to each flash loan volume. However, the initial and borrowed funds inside a flash loan won't be charged fees.&#x20;
+2. A 0.2% fee applies to each flash loan volume. However, the initial and borrowed funds inside a flash loan won't be charged fees.&#x20;
 
 To determine if fees are applied, there is a `Included 0.2% fee` on the initial funds section of the Furucombo create mode interface or at the top left-hand side of the page. If there is no indication of this, then no fees are applied.

@@ -181,22 +181,6 @@ Alternatively, if your wallet provider doesn't have a speed-up or cancel option,
 
 Try to reconnect your wallet.
 
-### I don't know what to build, is there any example combo
-
-Visit [Explore Page](https://furucombo.app/explore) to get some inspirations.&#x20;
-
-### How do I save my combo?
-
-When you set up a combo, click the chain icon underneath the send button. Thank you'll get a link to the current combo.
-
-![](<../../.gitbook/assets/image (2) (1).png>)
-
-### How do I share my combo?
-
-When you set up a combo, there will be a “share” link at the bottom, click the chain icon to get the link or click the Twitter icon to share it on Twitter.
-
-![](<../../.gitbook/assets/image (7).png>)
-
 ### I refresh price and it still says it will fail
 
 In most cases, it's because the price changed again and you need to update the numbers.

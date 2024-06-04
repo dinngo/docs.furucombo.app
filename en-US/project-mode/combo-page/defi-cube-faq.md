@@ -26,9 +26,9 @@ The most common error is that the price has changed in the cubes inside the flas
 
 You may also try deleting the flashloan cubes and hit send again to see which cube comes in error.&#x20;
 
-### Why do I have to pay 0.05% fee?
+### Why do I have to pay 0.2% fee?
 
-A 0.05% fee is paid for using the flashloan aggregator feature.
+A 0.2% fee is paid for using the flashloan aggregator feature.
 
 ### Why can't I put Aave cubes inside flashloan?
 
