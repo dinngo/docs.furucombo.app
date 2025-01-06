@@ -10,5 +10,4 @@
 
 * [Twitter](https://twitter.com/furucombo)
 * [Blog](https://medium.com/@furucombo)
-* [Forum](https://forum.furucombo.app/)
 * [Youtube](https://www.youtube.com/channel/UCa1kGD4lvTSrmfKbDjQNOxQ)
